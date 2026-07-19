@@ -23,7 +23,7 @@ The permit, guest check-ins, Tourism Dirham, safety requirements, and the paperw
 We're opening up more of our internal toolkit over time — operational products and the developer building blocks behind them.
 
 - **auth-starter** — a ready-to-use authentication starter kit: sign-in, sessions, and access control wired up so a new project ships with solid auth from day one, instead of rebuilding it every time.
-- **More tools** — additional compliance, operations, and developer utilities in the same practical, ship-it spirit. Announced here as each one opens up.
+- **More tools** — additional compliance, operations, and developer utilities in the same practical, ship-it spirit. Announced here as each one becomes available.
 
 Want early access to any of these? [Reach out](#get-in-touch).
 
